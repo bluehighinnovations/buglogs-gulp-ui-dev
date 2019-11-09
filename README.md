@@ -9,6 +9,7 @@ git clone https://github.com/debojyoti/gulp.env .
 
 ##### 2 : Install requrired packages
 ```
+npm i -g gulp@3
 npm install gulp@3 browser-sync gulp-concat --save-dev
 ```
 
